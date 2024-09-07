@@ -1,8 +1,16 @@
-# React + Vite
+# Hook useState
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+#### Este proyecto ofrece una serie de ejemplos prácticos para comprender y dominar el uso del hook useState. Desde ejemplos básicos hasta casos más avanzados, aquí encontrarás todo lo necesario para familiarizarte y aprovechar al máximo este hook.
 
-Currently, two official plugins are available:
+### Resultado final
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![](https://raw.githubusercontent.com/urian121/imagenes-proyectos-github/master/hook-use-state.png)
+
+### Expresiones de Gratitud 🎁
+
+    Comenta a otros sobre este proyecto 📢
+    Invita una cerveza 🍺 o un café ☕
+    Paypal iamdeveloper86@gmail.com
+    Da las gracias públicamente 🤓.
+
+## No olvides SUSCRIBIRTE 👍
